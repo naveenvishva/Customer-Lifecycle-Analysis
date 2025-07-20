@@ -1,0 +1,14 @@
+first_purchase_month,Month_0,Month_2,PctDrop_M0_M2,ChurnFlag,Alert
+2023-01,100.0,41.584158415841586,58.41584158415842,Moderate Risk,🔍 Investigate Cohort
+2023-02,100.0,35.65891472868217,64.34108527131784,Moderate Risk,🔍 Investigate Cohort
+2023-03,100.0,36.03603603603604,63.96396396396396,Moderate Risk,🔍 Investigate Cohort
+2023-04,100.0,39.189189189189186,60.810810810810814,Moderate Risk,🔍 Investigate Cohort
+2023-05,100.0,37.77777777777778,62.22222222222222,Moderate Risk,🔍 Investigate Cohort
+2023-06,100.0,45.0,55.00000000000001,Moderate Risk,🔍 Investigate Cohort
+2023-07,100.0,50.0,50.0,Moderate Risk,🔍 Investigate Cohort
+2023-08,100.0,75.0,25.0,Stable,✅ Healthy Retention
+2023-09,100.0,0.0,100.0,New Cohort,⏳ Too Early to Tell
+2023-10,100.0,100.0,0.0,Stable,✅ Healthy Retention
+2023-11,100.0,100.0,0.0,Stable,✅ Healthy Retention
+2024-01,100.0,0.0,100.0,New Cohort,⏳ Too Early to Tell
+2024-05,100.0,0.0,100.0,New Cohort,⏳ Too Early to Tell
